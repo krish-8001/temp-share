@@ -1,2 +1,2 @@
-# InShare - easy file sharing
-Simple file sharing web app with drag and drop file upload
+# temp share - easy file sharing
+ file sharing web app 
